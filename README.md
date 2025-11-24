@@ -5,8 +5,6 @@
 
 ## 1. Objetivo del Trabajo
 
-El objetivo principal es aplicar técnicas de **Análisis Exploratorio de Datos (EDA)** al *dataset* de viajes de Citi Bike (Jersey City, Q1 2017) para:
-
 * Limpiar, transformar y agregar la información de viaje.
 * Identificar patrones de uso y tendencias temporales.
 * Validar la hipótesis de que el sistema opera primordialmente como un servicio de **trayecto habitual.
@@ -20,7 +18,7 @@ El objetivo principal es aplicar técnicas de **Análisis Exploratorio de Datos 
 | **Dataset de Entrada** | `ny_citibikes_raw.xlsx` |
 | **Procesos Clave** | Gestión de valores atípicos (outliers) en la duración de viajes y análisis de frecuencia temporal. |
 
-## 3. Conclusiones Clave del EDA
+## 3. Conclusiones Clave
 
 1.  **Uso de *Commuting***: La **duración media de 9.58 minutos** y los picos de actividad en días laborables confirman que el sistema se utiliza mayoritariamente para la **movilidad de cercanía y laboral**.
 2.  **Identificación de Nodos (Hubs)**: Las estaciones **Grove St PATH** y **Exchange Place** concentran el tráfico (Top 2), funcionando como **nodos multimodales** críticos que enlazan el servicio de bicicleta con el transporte interurbano (hacia Nueva York).
