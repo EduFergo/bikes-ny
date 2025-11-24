@@ -16,7 +16,7 @@
 | **Plataforma** | Jupyter Notebook (`file.ipynb`) |
 | **Librerías Clave** | **Pandas** (manipulación y agregación de datos) y **Matplotlib/Seaborn** (visualización para la inferencia de patrones). |
 | **Dataset de Entrada** | `ny_citibikes_raw.xlsx` |
-| **Procesos Clave** | Gestión de valores atípicos (outliers) en la duración de viajes y análisis de frecuencia temporal. |
+| **Procesos Clave** | Gestión de valores atípicos en la duración de viajes y análisis de frecuencia temporal. |
 
 ## 3. Conclusiones Clave
 
