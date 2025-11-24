@@ -1,17 +1,15 @@
-# Análisis Exploratorio de Datos (EDA) de Citi Bike - Primer Trimestre 2017
-
-## 🎓 Contexto Académico
+# Análisis de Citi Bike - Primer Trimestre 2017
 
 **Asignatura:** Sistemas de Big Data
 **Programa:** Curso de Especialización en Big Data e Inteligencia Artificial
 
-## 1. Objetivo del Proyecto
+## 1. Objetivo del Trabajo
 
 El objetivo principal es aplicar técnicas de **Análisis Exploratorio de Datos (EDA)** al *dataset* de viajes de Citi Bike (Jersey City, Q1 2017) para:
 
 * Limpiar, transformar y agregar la información de viaje.
 * Identificar patrones de uso y tendencias temporales.
-* Validar la hipótesis de que el sistema opera primordialmente como un servicio de **trayecto habitual (*commuting*)**.
+* Validar la hipótesis de que el sistema opera primordialmente como un servicio de **trayecto habitual.
 
 ## 2. Metodología y Tecnología
 
